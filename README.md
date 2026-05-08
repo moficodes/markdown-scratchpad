@@ -5,6 +5,10 @@ Live demo is available here: [https://markdown-scratchpad-598464211339.us-west2.
 
 A high-performance, split-screen Markdown editor built for rapid drafting and immediate feedback.
 
+
+## Demo
+![Dashboard Demo](assets/demo.png)
+
 ## Productivity Value
 When drafting documentation, READMEs, or quick notes, context switching between editors and previewers breaks flow. This scratchpad provides a distraction-free, live-updating environment with full GitHub Flavored Markdown (GFM) support. It auto-saves locally and offers instant PDF/HTML exports, minimizing the friction between thought and published content.
 
