@@ -1,4 +1,7 @@
 # Markdown Scratchpad
+## Try it out!
+Live demo is available here: [https://markdown-scratchpad-598464211339.us-west2.run.app](https://markdown-scratchpad-598464211339.us-west2.run.app)
+
 
 A high-performance, split-screen Markdown editor built for rapid drafting and immediate feedback.
 

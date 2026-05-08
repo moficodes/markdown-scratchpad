@@ -10,7 +10,8 @@
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "start": "npx serve -s dist -l tcp://0.0.0.0:${PORT:-8080}"
   },
   "dependencies": {
     "@codemirror/lang-markdown": "^6.5.0",
